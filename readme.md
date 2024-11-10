@@ -33,7 +33,7 @@
 
 # **App Logo & Download**
 
-<table border="1" width="100%" align="center">
+<table border="1" width="100%" >
   <thead>
     <tr>
       <th colspan="2">App Logo & Download</th>
@@ -60,7 +60,7 @@
   </tbody>
 </table>
 
-# **Wassit Cars Rental Application**
+<!-- # **Wassit Cars Rental Application**
 
 <table border="1" align="center">
   <thead>
@@ -75,7 +75,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 # **Source Code & Description**
 
@@ -103,10 +103,6 @@
     </tr>
   </tbody>
 </table>
-
-# **Screenshots (Users Applications)**
-
-# **Users Application**
 
 # **Users Application**
 
