@@ -27,26 +27,9 @@
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 
-# **Clothes Store Application Almasa**
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<table border="1" align="center">
-  <thead>
-    <tr>
-      <th>Application's Poster</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-         <img src="./assets/poster.png" alt="Application Poster">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 # **App Logo & Download**
 
@@ -72,6 +55,23 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
           </a>
        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# **Wassit Cars Rental Application**
+
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>Application's Poster</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+         <img src="./assets/poster.png"  width=2000 alt="Application Poster">
       </td>
     </tr>
   </tbody>
@@ -108,66 +108,122 @@
 
 # **Users Application**
 
- <img width="260" alt="Image 34" src="screenshots/sc (2).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (4).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (65).jpg">
- <img width="260" alt="Image 24" src="screenshots/sc (24).jpg">
- <img width="260" alt="Image 21" src="screenshots/sc (21).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (40).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (36).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (34).jpg">
- <img width="260" alt="Image 29" src="screenshots/sc (29).jpg"> 
- <img width="260" alt="Image 26" src="screenshots/sc (26).jpg"> 
- <img width="260" alt="Image 32" src="screenshots/sc (32).jpg"> 
- <img width="260" alt="Image 30" src="screenshots/sc (30).jpg">
- <img width="260" alt="Image 25" src="screenshots/sc (25).jpg"> 
- <img width="260" alt="Image 28" src="screenshots/sc (28).jpg"> 
- <img width="260" alt="Image 31" src="screenshots/sc (31).jpg"> 
- <img width="260" alt="Image 33" src="screenshots/sc (33).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (35).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (37).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (38).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (39).jpg">
- <img width="260" alt="Image 27" src="screenshots/sc (27).jpg">
+# **Users Application**
+
+<p align="center">
+  <img width="300" alt="Image 2" src="screenshots/sc (2).jpg">
+  <img width="300" alt="Image 4" src="screenshots/sc (4).jpg">
+  <img width="300" alt="Image 65" src="screenshots/sc (65).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 24" src="screenshots/sc (24).jpg">
+  <img width="300" alt="Image 21" src="screenshots/sc (21).jpg">
+  <img width="300" alt="Image 40" src="screenshots/sc (40).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 36" src="screenshots/sc (36).jpg">
+  <img width="300" alt="Image 34" src="screenshots/sc (34).jpg">
+  <img width="300" alt="Image 29" src="screenshots/sc (29).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 26" src="screenshots/sc (26).jpg">
+  <img width="300" alt="Image 32" src="screenshots/sc (32).jpg">
+  <img width="300" alt="Image 30" src="screenshots/sc (30).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 25" src="screenshots/sc (25).jpg">
+  <img width="300" alt="Image 28" src="screenshots/sc (28).jpg">
+  <img width="300" alt="Image 31" src="screenshots/sc (31).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 33" src="screenshots/sc (33).jpg">
+  <img width="300" alt="Image 35" src="screenshots/sc (35).jpg">
+  <img width="300" alt="Image 37" src="screenshots/sc (37).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 38" src="screenshots/sc (38).jpg">
+  <img width="300" alt="Image 39" src="screenshots/sc (39).jpg">
+  <img width="300" alt="Image 27" src="screenshots/sc (27).jpg">
+</p>
 
 # **Agencies Application**
 
- <img width="260" alt="Image 34" src="screenshots/sc (61).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (62).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (64).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (44).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (43).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (42).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (45).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (47).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (46).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (48).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (49).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (50).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (51).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (52).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (53).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (54).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (55).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (56).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (57).jpg">
- <img width="260" alt="Image 34" src="screenshots/sc (58).jpg">
+<p align="center">
+  <img width="300" alt="Image 61" src="screenshots/sc (61).jpg">
+  <img width="300" alt="Image 62" src="screenshots/sc (62).jpg">
+  <img width="300" alt="Image 64" src="screenshots/sc (64).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 44" src="screenshots/sc (44).jpg">
+  <img width="300" alt="Image 43" src="screenshots/sc (43).jpg">
+  <img width="300" alt="Image 42" src="screenshots/sc (42).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 45" src="screenshots/sc (45).jpg">
+  <img width="300" alt="Image 47" src="screenshots/sc (47).jpg">
+  <img width="300" alt="Image 46" src="screenshots/sc (46).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 48" src="screenshots/sc (48).jpg">
+  <img width="300" alt="Image 49" src="screenshots/sc (49).jpg">
+  <img width="300" alt="Image 50" src="screenshots/sc (50).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 51" src="screenshots/sc (51).jpg">
+  <img width="300" alt="Image 52" src="screenshots/sc (52).jpg">
+  <img width="300" alt="Image 53" src="screenshots/sc (53).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 54" src="screenshots/sc (54).jpg">
+  <img width="300" alt="Image 55" src="screenshots/sc (55).jpg">
+  <img width="300" alt="Image 56" src="screenshots/sc (56).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 57" src="screenshots/sc (57).jpg">
+  <img width="300" alt="Image 58" src="screenshots/sc (58).jpg">
+</p>
 
 # **Admins Application**
 
- <img width="260" alt="Image 20" src="screenshots/sc (20).jpg"> 
- <img width="260" alt="Image 10" src="screenshots/sc (10).jpg"> 
- <img width="260" alt="Image 13" src="screenshots/sc (13).jpg"> 
- <img width="260" alt="Image 12" src="screenshots/sc (12).jpg">
- <img width="260" alt="Image 15" src="screenshots/sc (15).jpg">
- <img width="260" alt="Image 16" src="screenshots/sc (16).jpg"> 
- <img width="260" alt="Image 17" src="screenshots/sc (17).jpg"> 
- <img width="260" alt="Image 18" src="screenshots/sc (18).jpg">
- <img width="260" alt="Image 9" src="screenshots/sc (9).jpg">
- <img width="260" alt="Image 11" src="screenshots/sc (11).jpg"> 
- <img width="260" alt="Image 19" src="screenshots/sc (19).jpg">
- <img width="260" alt="Image 8" src="screenshots/sc (8).jpg"> 
- <img width="260" alt="Image 7" src="screenshots/sc (7).jpg">
+<p align="center">
+  <img width="300" alt="Image 20" src="screenshots/sc (20).jpg">
+  <img width="300" alt="Image 10" src="screenshots/sc (10).jpg">
+  <img width="300" alt="Image 13" src="screenshots/sc (13).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 12" src="screenshots/sc (12).jpg">
+  <img width="300" alt="Image 15" src="screenshots/sc (15).jpg">
+  <img width="300" alt="Image 16" src="screenshots/sc (16).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 17" src="screenshots/sc (17).jpg">
+  <img width="300" alt="Image 18" src="screenshots/sc (18).jpg">
+  <img width="300" alt="Image 9" src="screenshots/sc (9).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 11" src="screenshots/sc (11).jpg">
+  <img width="300" alt="Image 19" src="screenshots/sc (19).jpg">
+  <img width="300" alt="Image 8" src="screenshots/sc (8).jpg">
+</p>
+
+<p align="center">
+  <img width="300" alt="Image 7" src="screenshots/sc (7).jpg">
+</p>
 
 # **For More Info:**
 
