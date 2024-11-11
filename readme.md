@@ -109,6 +109,12 @@
 <p align="center">
   <img width="260" alt="Image 2" src="screenshots/sc (2).jpg">
   <img width="260" alt="Image 4" src="screenshots/sc (4).jpg">
+  <img width="260" alt="Image 65" src="screenshots/sc (59).jpg">
+</p>
+
+<p align="center">
+  <img width="260" alt="Image 2" src="screenshots/sc (60).jpg">
+  <img width="260" alt="Image 4" src="screenshots/sc (63).jpg">
   <img width="260" alt="Image 65" src="screenshots/sc (65).jpg">
 </p>
 
